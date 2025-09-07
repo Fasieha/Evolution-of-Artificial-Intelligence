@@ -6,8 +6,11 @@ My focus lies in understanding how AI impacts everyday life—whether it’s pow
 
 Key points:
  🔹 The evolution of AI (from ANI → AGI → ASI)
+
  🔹 The difference between Generative & Agentic AI
+ 
  🔹 The ethical and safety challenges of AI
+ 
  🔹 The future of AI in healthcare, automation, and creativity
 
 🚀 With AI continuing to evolve rapidly beyond 2025, my goal is to stay at the forefront of these innovations, contribute to responsible AI development, and be part of shaping a smarter, more connected world.
