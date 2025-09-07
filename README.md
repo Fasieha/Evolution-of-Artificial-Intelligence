@@ -5,6 +5,7 @@ I enjoy exploring how AI has evolved—from its early foundations with Alan Turi
 My focus lies in understanding how AI impacts everyday life—whether it’s powering healthcare innovations, enabling smarter digital assistants, or driving breakthroughs in automation and creativity. I believe AI is not just about machines mimicking human thought, but about creating solutions that transform industries and improve lives.
 
 Key points:
+
  🔹 The evolution of AI (from ANI → AGI → ASI)
 
  🔹 The difference between Generative & Agentic AI
